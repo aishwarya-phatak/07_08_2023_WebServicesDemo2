@@ -1,0 +1,6 @@
+framework module Pods_07_08_2023_WebServicesDemo2 {
+  umbrella header "Pods-07_08_2023_WebServicesDemo2-umbrella.h"
+
+  export *
+  module * { export * }
+}
